@@ -1,4 +1,4 @@
-Organo
+##Organo##
 Organo é um projeto de front-end desenvolvido com as tecnologias JavaScript, HTML, CSS e React. O projeto consiste em um organograma com um formulário de cadastro de pessoas e times de uma empresa. Ao cadastrar um novo integrante e clicar em um botão de criar card, aparece um card na seção do time selecionado no cadastro, variando assim as cores de fundo do card. Não há backend.
 
 Recursos
